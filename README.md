@@ -1,3 +1,3 @@
-# food_project
+# Food Project
 
 A new Flutter project.
